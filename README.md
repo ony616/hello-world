@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi Humans!
+
+Ony here, I am learning to code.
